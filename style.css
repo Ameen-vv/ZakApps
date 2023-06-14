@@ -1,0 +1,40 @@
+.main{
+    background-color: blue;
+    height: 400px;
+    width: 400px;
+}
+
+.sub{
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+}
+.font_raleway{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.font_sans_pro{
+    font-family: 'Titillium Web', sans-serif;
+}
+.star-svg{
+    background-color:#ff0;
+  }
+.star-svg path{
+    fill: #ffff;
+  }
+
+.vl {
+    border-left: 3px solid;
+    height: 26px;
+  }
+
+.footer{
+    background-color: #EBF2EF;
+}
+.social{
+    background-color: #0C3322;
+}
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
